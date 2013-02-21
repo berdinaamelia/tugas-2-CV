@@ -49,9 +49,7 @@ Membuat WEB
 	</tr>
 	<tr>
 	 <td>Alamat : </td>
-	 <td>Perum.Pondok Pabean Indah Blok V-
-
-4,Probolinggo</td>
+	 <td>Perum.Pondok Pabean Indah Blok V-4,Probolinggo</td>
 	</tr>
 	<tr>
          <td>No.Ponsel : </td>
