@@ -3,8 +3,6 @@ tugas-2-CV
 
 Membuat WEB
 
-<!DOCTYPE html>
-
 <html>
 	<head>
 		<link rel="stylesheet" href="style1.css" />
