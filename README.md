@@ -4,46 +4,135 @@ tugas-2-CV
 Membuat WEB
 
 <!DOCTYPE html>
+
 <html>
-  <head>
-		<title> Curriculum Vitae (CV)</title>
+	<head>
+		<link rel="stylesheet" href="style1.css" />
 	</head>
-	<body style = "background-color:pink">
-	<h2>Curriculum Vitae (CV)</h2>
- 	<ol>
-	<p style= "font-family: Futura; font-size: 
-
-20px"><b>Data Pribadi</b></p>  
-	<tr>
-         <li>Nama : Berdina Amelia W.</li>
-         <li>Jenis Kelamin : Perempuan</li>
-         <li>Tempat, Tanggal lahir : Malang, 7 Desember 1992</li>
-	       <li>Kebangsaan : Indonesia</li>
-         <li>Status : Belum Menikah</li>
-	       <li>Tinggi/Berat : 165 cm/60 kg</li>
-         <li>Agama : Islam</li>
-	       <li>Alamat : Perum.Pondok Pabean Indah Blok V-4, Probolinggo</li>
-         <li>No.Ponsel : 085785099340</li>
-	       <li>E-mail : berdina.bella@yahoo.com</li>
-     </ol>
-	</tr>
-
-	<tr>
-	<ol>
-   	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
-	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
-	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
-	<li>2008-2011 : SMA Negeri 4 Probolinggo</li>
-	<li>2011-sekarang : Universitas Negeri Malang</li>
-	</ol>
-	</tr>
-	
-	<tr>
-	<ol>
-	<p style= "font-family: Futura; font-size: 20px"><b>Kursus & Pelatihan</b></p>
-	<li>2008 : Bahasa Inggris (1 tahun)</li>
-	<li>2011 : Komputer (3 bulan)</li>
-	</ol>
-	</tr>
+	<body>
+		<img src ="profil.jpg">
+		<h1>CURRICULUM VITAE</h1>
+			<p>
+				<h3>A. Biodata Diri</h3>
+				<table>
+					<thead>
+						<tr>
+							<th></th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>- Nama </td>
+							<td>: Muhammad Fikri Ramadhan</td>
+						</tr>
+						<tr>
+							<td>- Tempat Tanggal Lahir </td>
+							<td>: Probolinggo, 04 Maret 1993</td>
+						</tr>
+						<tr>
+							<td>- Jenis Kelamin </td>
+							<td>: Laki-laki</td>
+						</tr>
+						<tr>
+							<td>- Agama </td>
+							<td>: Islam</td>
+						</tr>
+						<tr>
+							<td>- Alamat </td>
+							<td>: Jl. Jombang gg 1B No.19</td>
+						</tr>
+						<tr>
+							<td>- Email </td>
+							<td>: fikri_ichie@yahoo.co.id</td>
+						</tr>
+						<tr>
+							<td>- No. HP </td>
+							<td>: 085234556720</td>
+						</tr>
+						<tr>
+							<td>- Hobby </td>
+							<td>: Menggambar</td>
+						</tr>
+					</tbody>
+				</table>
+			</p>
+			<br>
+			<p>
+			<h3>B. Riwayat Pendidikan</h3>
+				<table>
+					<thead>
+						<tr>
+							<th>Nama</th>
+							<th>Tahun</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>TK Masyithoh 2 </td>
+							<td>: 1997-1999</td>
+						</tr>
+						<tr>
+							<td>SDN Kebon Sari Kulon 2 </td>
+							<td>: 1999-2005</td>
+						</tr>
+						<tr>
+							<td>SMP Negeri 5 Probolinggo </td>
+							<td>: 2005-2008</td>
+						</tr>
+						<tr>
+							<td>SMA Negeri 2 Probolinggo </td>
+							<td>: 2008-2011</td>
+						</tr>
+						<tr>
+							<td>Universitas Negeri Malang </td>
+							<td>: 2011-sekarang</td>
+						</tr>
+					</tbody>
+				</table>
+			</p>
+			<br>
+			<p>
+			<h3>C. Riwayat Organisasi</h3>
+				<table>
+					<thead>
+						<tr>
+							<th>Nama</th>
+							<th>Tahun</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Remaja Masjid SMA Negeri 2 Probolinggo </td>
+							<td>: 2008-2009</td>
+						</tr>
+						<tr>
+							<td>Badan Dakwah Masjid Universitas Negeri Malang </td>
+							<td>: 2011-sekarang</td>
+						</tr>
+						<tr>
+							<td>Divisi Kerohanian BEM FT Universitas Negeri Malang</td>
+							<td>: 2011-sekarang</td>
+					</tbody>
+				</table>
+			</p>
+			<br>
+			<p>
+			<h3>D. Prestasi yang pernah diraih</h3>
+				<table>
+					<thead>
+						<tr>
+							<th>Nama</th>
+							<th>Tahun</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Juara 3 PKM GT Tingkat Jurusan</td>
+							<td>: 2012</td>
+						</tr>
+					</tbody>
+				</table>
+			</p>
 	</body>
 </html>
