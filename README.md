@@ -7,17 +7,18 @@ Membuat WEB
 	<head>
 		<title> Curriculum Vitae (CV)</title>
 	</head>
-	<body style = "background-color:pink">
-	<h2>Curriculum Vitae (CV)</h2>
-	
-	<h2>Data Pribadi</h2> 
+	<body>
+	<h1>Curriculum Vitae (CV)</h1>
+	<p>
+	<h3>Data Pribadi</h3> 
 	<table>
 	<thead>
 		<tr>
 		<th></th>
 		<th></th>
 		</tr>
-	</thead> 
+	</thead>
+	<tbody> 
 	<tr>
          <td>Nama : </td>
 	 <td>Berdina Amelia W.</td>
@@ -48,7 +49,9 @@ Membuat WEB
 	</tr>
 	<tr>
 	 <td>Alamat : </td>
-	 <td>Perum.Pondok Pabean Indah Blok V-4,Probolinggo</td>
+	 <td>Perum.Pondok Pabean Indah Blok V-
+
+4,Probolinggo</td>
 	</tr>
 	<tr>
          <td>No.Ponsel : </td>
@@ -57,18 +60,21 @@ Membuat WEB
 	 <td>E-mail : </td>
 	 <td>berdina.bella@yahoo.com</td>
 	</tr>
-	</ol>
+	</tbody>
 	</table>
+	</p>
 	
+	<br>
+	<p>
+	<h3>Riwayat Pendidikan</h3>
 	<table>
-	<ol>
-	<h2>Riwayat Pendidikan</h2>
 	<thead>
 		<tr>
 		<th>Tahun</th>
 		<th>Nama Sekolah</th>
 		</tr>
 	</thead> 
+	<tbody>
 	<tr>
 	<td>1999-2005 : </td>
 	<td>SD Wiroborang III Probolinggo</td>
@@ -85,18 +91,21 @@ Membuat WEB
 	<td>2011-sekarang : </td>
 	<td>Universitas Negeri Malang</td>
 	</tr>
-	</ol>
+	</tbody>
 	</table>
+	</p>
 	
+	<br>
+	<p>
+	<h3>Kursus & Pelatihan</h3>
 	<table>
-	<ol>
-	<p><b>Kursus & Pelatihan</b></p>
 	<thead>
 		<tr>
 		<th>Tahun</th>
 		<th>Bidang yang Diikuti</th>
 		</tr>
 	</thead> 
+	<tbody>
 	<tr>
 	<td>2008 : </td>
 	<td>Bahasa Inggris (1 tahun)</td>
@@ -105,7 +114,9 @@ Membuat WEB
 	<td>2011 : </td>
 	<td>Komputer (3 bulan)</td>
 	</tr>
-	</ol>
+	</tbody>
 	</table>
+	</p>
+	<br>
 	</body>
 </html>
